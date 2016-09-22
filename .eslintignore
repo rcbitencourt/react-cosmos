@@ -1,4 +1,0 @@
-dev
-packages/*/lib
-node_modules
-test/coverage
